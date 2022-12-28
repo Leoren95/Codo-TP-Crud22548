@@ -45,7 +45,7 @@ CREATE TABLE `socios` (
 
 INSERT INTO `socios` (`idSocio`, `nombre`, `apellido`, `direccion`, `localidad`, `fnac`, `email`, `telefono`, `activo`) VALUES
 (1, 'Leonardo', 'Oliverio', 'niidea0000', 'BsAs', '1995-06-27', 'l_@algo.com', '+54*********0', 1),
-(2, 'alguien', 'apellido', 'sarasa123', 'sarasa', '0000-00-00', 'sarsa@s.com', '2101010101010', 1);
+(2, 'alguien', 'apellido', 'sarasa123', 'sarasa', '2000-01-01', 'sarsa@s.com', '2101010101010', 1);
 
 --
 -- Índices para tablas volcadas
